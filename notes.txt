@@ -1,0 +1,64 @@
+#64b161
+1. React
+2. Firebase Realtime Database
+3. Material UI
+4. React Router
+5. React Context API
+6. Redux
+7. Google Authentication
+8. Deploy using Firebase 
+
+
+
+FIREBASE
+
+1. npm install -g firebase-tools
+
+2. copy the firebase config to firebase.js inside src
+
+3. npm i firebase
+
+4. in firebas.js:
+	import firebase from 'firebase';
+
+5.	const firebaseApp = firebase.initializeApp(firebaseConfig);
+ 	const db = firebaseApp.firestore();
+	const auth = firebase.auth();
+	const provider = firebase.auth.GoogleAuthProvider();
+
+	export { auth, provider };
+	export default db;
+
+
+REACT ROUTER
+
+1. npm i react-router-dom 
+
+
+
+
+
+
+
+material-ui
+install
+
+install icons
+
+
+
+#e8eccd
+#e9eeca
+
+
+CSS:
+//to center the items
+
+display: grid
+place-items:center;
+
+
+avatar: ibic
+xcxcvt
+xcxcvtl
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiik
