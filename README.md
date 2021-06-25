@@ -1,5 +1,5 @@
 # [WhatsApp-Web Clone](https://whatsapp-clone-36226.web.app/)
-This WhatsApp-Web Clone project is built using React JS and Firebase along with [Material-UI](https://material-ui.com/) and Vanilla CSS for styling.
+This [WhatsApp-Web Clone](https://whatsapp-clone-36226.web.app/) project is built using React JS and Firebase along with [Material-UI](https://material-ui.com/) and Vanilla CSS for styling.
 
 
 # Getting Started with Create React App
