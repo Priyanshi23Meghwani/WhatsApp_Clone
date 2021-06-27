@@ -14,3 +14,20 @@
   box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);
 
 }
+
+#message {
+  display: none;
+}
+
+@media (max-width: 500px){
+  #demo {
+    display: none;
+  }
+
+  #message {
+    display: grid;
+    place-items: center;
+    margin-top: 100px;
+
+  }
+}

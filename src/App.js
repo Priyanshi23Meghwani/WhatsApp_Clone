@@ -16,7 +16,8 @@ function App() {
   return (
 
     //BEM naming convention
-    <div className="app" >
+    <>
+    <div className="app" id="demo" >
       {!user ? (  <Login /> 
       ):(
         <div className="app__body">
@@ -38,6 +39,9 @@ function App() {
 
      
     </div>
+    <p id="message">Please open this site on a desktop.</p>
+
+    </>
 
   );
 }
